@@ -4,8 +4,6 @@ Monte Carlo Simulation Suite — Quantitative Finance
 Demonstrates: GBM asset pricing, options pricing (European & Asian),
 VaR/CVaR estimation, portfolio optimization, and variance reduction
 techniques (antithetic variates, control variates).
-
-Author: [Your Name]
 """
 
 import numpy as np
